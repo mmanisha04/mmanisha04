@@ -11,3 +11,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about Python, SQL, PySpark, ETL, Data Warehousing, Data Validation, and Data Pipeline Development.
 
 - ⚡ Fun fact: 
+I enjoy coffee
+I love to watch Kdrama
+- Habits : Reading books, Kdrama
